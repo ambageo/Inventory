@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="products">Products</string>
+
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="unsaved_changes_msg">There are unsaved changes. Discard them and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep editing</string>
+
+
+    <string name="delete_dialog_msg">Delete this product?</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all_entries">Delete all products</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="editor_product_delete_failed">Error while deleting the product</string>
+    <string name="editor_delete_product_success">Product was successfully deleted.</string>
+
+    <string name="empty_view_text">The inventory is currently empty</string>
+
+    <string name="designer_logo_link"><a href='http://www.freepik.com/free-vector/flat-store-facade-with-awning_845111.htm'>Designed by Freepik</a></string>
+
+    <string name="editor_activity_title_new_product">Add a new product</string>
+    <string name="editor_activity_title_edit_product">Edit product</string>
+
+    <string name="overview">Overview</string>
+    <string name="hint_product_name">Name</string>
+    <string name="hint_product_quantity">Quantity</string>
+    <string name="hint_product_price">Price</string>
+    <string name="image">Image</string>
+    <string name="choose_photo">Choose a photo</string>
+    <string name="take_photo">Take photo</string>
+    <string name="supplier">Supplier</string>
+    <string name="supplier_email">Email</string>
+    <string name="order">Order more</string>
+
+    <string name="order_placement">Order placement</string>
+    <string name="order_text">Hi, I would like to place an order for your product: \n</string>
+
+    <string name="product_insert_fail">The product was not saved...</string>
+    <string name="product_insert_success">The product was saved!</string>
+    <string name="product_out_of_stock">Product is out of stock</string>
+</resources>
